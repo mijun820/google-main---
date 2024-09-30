@@ -1,0 +1,33 @@
+.list-sty-none {
+    list-style: none;
+}
+
+.padding-button {
+    padding: 20px 30px;
+}
+
+.back-color-gray {
+    background-color: rgb(247, 247, 247);
+}
+
+.border-none {
+    border: none;
+}
+
+.box-center {
+    margin: 0 auto;
+    width: 10%;
+}
+
+.m-big {
+    margin: 0 1300px 0 0;
+}
+
+.asdfasdfasdfasdf {
+    top: 600px;
+    left: 1600px;
+}
+
+#qwerqwer {
+    display: none;
+}
